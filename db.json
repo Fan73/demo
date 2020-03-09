@@ -6,6 +6,8 @@
   "posts": [
     {
       "id": 1,
+      "wert": "20.50",
+      "einheit": "C",
       "title": "hello hallo"
     }
   ],
